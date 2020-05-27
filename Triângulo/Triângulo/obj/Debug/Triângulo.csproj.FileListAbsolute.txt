@@ -1,0 +1,13 @@
+C:\Users\Caio\source\repos\Triângulo\Triângulo\bin\Debug\Triângulo.exe.config
+C:\Users\Caio\source\repos\Triângulo\Triângulo\bin\Debug\Triângulo.exe
+C:\Users\Caio\source\repos\Triângulo\Triângulo\bin\Debug\Triângulo.pdb
+C:\Users\Caio\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.csprojAssemblyReference.cache
+C:\Users\Caio\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.Form1.resources
+C:\Users\Caio\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.Properties.Resources.resources
+C:\Users\Caio\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.csproj.GenerateResource.cache
+C:\Users\Caio\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.exe
+C:\Users\Caio\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.pdb
+C:\Users\AbnerNB\Desktop\CalcTri\Triângulo\Triângulo\obj\Debug\Triângulo.csprojAssemblyReference.cache
+C:\Users\AbnerNB\Desktop\CalcTri\Triângulo\Triângulo\obj\Debug\Triângulo.exe
+C:\Users\AbnerNB\Desktop\CalcTri\Triângulo\Triângulo\obj\Debug\Triângulo.pdb
